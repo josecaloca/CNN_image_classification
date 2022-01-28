@@ -13,3 +13,4 @@ This online training provides the essential features of the programming language
 - Solving business problems with the use of Python
 - Business culture in Poland
 
+Further information can be found [here](https://www.kozminski.edu.pl/en/programs/courses-and-training/python-i-and-ii-international-intensive-training-program)
